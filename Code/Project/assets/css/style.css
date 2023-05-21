@@ -1,0 +1,20 @@
+.img-size {
+    width: 300px !important;
+    height: 478px !important;
+    transition: 0.5s;
+}
+
+.logo {
+    width: 100px !important;
+    height: 100px !important;
+}
+
+hr {
+    height: 12px;
+    background: black;
+    margin-bottom: 50px;
+}
+ul{
+    list-style-type: none;
+    padding-left: 0px !important;
+}
